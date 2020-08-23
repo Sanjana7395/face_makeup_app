@@ -1,6 +1,6 @@
 # Face Makup Web application - Backend
 
-This folder contains the backend of the web application implemented using NodeJS and tensorflow.js.
+This folder contains the backend of the web application implemented using NodeJS and tensorflow.js.     
 For more on tensorflow.js refer [https://www.tensorflow.org/js/tutorials](https://www.tensorflow.org/js/tutorials).
 
 
@@ -14,7 +14,7 @@ Setup procedure
         npm install
 
 3. Add your model in helpers/tfjs_model.
-    1. In the nueral network project, where the model is trained and saved or in an isolated python environment(created using pipenv or
+    1. In the neural network project, where the model is trained and saved or in an isolated python environment(created using pipenv or
     virtualenv) install the convertor by running the following command.
             
             pip install tensorflowjs
@@ -28,8 +28,8 @@ Setup procedure
 
     [OR]
 
-    Download the semantic segmentation tensorflow.js web model from [here]
-    (https://drive.google.com/drive/folders/1NidAqPT3aVBm54_KRTcbZBcvls98q18L?usp=sharing)
+    Download the semantic segmentation tensorflow.js web model from 
+    [here](https://drive.google.com/drive/folders/1NidAqPT3aVBm54_KRTcbZBcvls98q18L?usp=sharing)
 
 4. Run the project in development mode.
       
