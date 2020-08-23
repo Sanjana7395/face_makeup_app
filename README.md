@@ -1,6 +1,6 @@
 # Face Makup Web application
 
-This web application helps in trying out various shapes of lipstick and hair-color on the uploaded image. The method adopted is parsing different parts of the face using semantic segmentation. The segmented image is then used to change the lip and hair color.
+This web application helps in trying out various shades of lipstick and hair-color on the uploaded image. The method adopted is parsing different parts of the face using semantic segmentation. The segmented image is then used to change the lip and hair color.
 
 ![Project demo](demo/makeup_mirror2.gif)
 
