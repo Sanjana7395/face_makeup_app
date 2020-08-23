@@ -1,0 +1,53 @@
+.container-fluid{
+    background-color: #000;
+    color: #fff;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    min-height: 100vh;
+}
+
+.appname{
+    font-size: 4.5rem;
+    margin-bottom: 2%;
+}
+
+.previewText{
+    text-align: center;
+    margin: 70px 21%;
+    width: 500px;
+    border: 1px dashed;
+    padding: 190px 10px;
+}
+
+.imgPreview{
+    width: 500px;
+    margin-top: 70px;
+}
+
+.getstarted{
+    margin-top: 40px;
+    border-radius: 18px;
+}
+
+.steps{
+    margin: 5% 30%;
+    text-align: left;
+}
+
+.blankStyle{
+    margin-top: 180px;
+}
+
+.selection{
+    margin-top: 70px;
+}
+
+.featureSelection{
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+.apply{
+    margin-top: 10px;
+    border-radius: 20px;
+}

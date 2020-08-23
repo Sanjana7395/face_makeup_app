@@ -1,0 +1,22 @@
+.container-fluid{
+    background-color: #000;
+    color: #fff;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    min-height: 100vh;
+}
+
+.appname{
+    font-size: 4.5rem;
+    margin-bottom: 5%;
+}
+
+.subheading{
+    font-size: 2.25rem;
+    margin-top: 180px;
+}
+
+.getstarted{
+    margin-top: 40px;
+    border-radius: 18px;
+}
