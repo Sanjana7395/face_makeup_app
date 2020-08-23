@@ -14,7 +14,8 @@ Setup procedure
         npm install
 
 3. Add your model in helpers/tfjs_model.
-    1. In the neural network project, where the model is trained and saved or in an isolated python environment(created using pipenv or
+    1. In the neural network project (See this [Github](https://github.com/Sanjana7395/Face_segmentation.git) project), 
+    where the model is trained and saved or in an isolated python environment(created using pipenv or
     virtualenv) install the convertor by running the following command.
             
             pip install tensorflowjs
